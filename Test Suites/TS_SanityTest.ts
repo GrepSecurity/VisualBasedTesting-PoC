@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_SanityTest</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>b40a9111-d5d0-4517-89e9-ba6397eedbfb</testSuiteGuid>
+   <testCaseLink>
+      <guid>16fdf85b-0a55-4bdd-ac19-3d62f6de790e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sanity/TC1_Verify Successful Login</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>14d98e7b-4ac8-4e28-8ce7-394001d188f0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a97344e7-5f9c-4936-92a2-d85e5463f3c9</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>bc35492a-3fda-4b65-b42d-e30e4f5bcf05</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sanity/TC2_Verify Successful Appointment</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a32dd959-4b4a-45ed-9af8-acc9ed4f86dd</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sanity/Login</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>19fe967b-1564-4705-aff2-848d45b84489</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>75fa3d79-7e92-4d55-b359-f7c9493ea288</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>6c17caf5-ed1a-4a42-ba26-65c46b326b40</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b6f6f875-e28d-4345-bb9b-0cff9faac34d</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_RegressionTest</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <lastRun>2016-12-28T21:43:44</lastRun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>1286ccc6-2057-418d-87af-23d00cc6cd0e</testSuiteGuid>
+   <testCaseLink>
+      <guid>12b1ed24-3d2b-4bed-87e1-7c72470cdce7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sanity/TC1_Verify Successful Login</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>14d98e7b-4ac8-4e28-8ce7-394001d188f0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a97344e7-5f9c-4936-92a2-d85e5463f3c9</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e4bf2157-13c0-4c5f-875c-fa60a7e7a2fa</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sanity/TC2_Verify Successful Appointment</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0bc63b20-3fd9-45c7-a1ce-2afb43a5e7ca</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Visual Based Testing Testcases/Demo GUI Testcase 01</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c5a1950d-5555-48c2-b1ae-a5892f6c4944</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>7495b7e7-0faa-4fc3-8637-1980f8475f77</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

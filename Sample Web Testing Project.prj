@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>Sample project demo for web testing</description>
+   <name>Sample Web Testing Project</name>
+   <tag></tag>
+   <UUID>6a274c2a-32e9-4473-a1c3-03b2bca69ef4</UUID>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>VBT Suite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>aec844d7-e726-48ef-9103-2c151ca595bc</testSuiteGuid>
+   <testCaseLink>
+      <guid>1fbd5a77-5343-4ba1-a434-ab13ab997a71</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Visual Based Testing Testcases/Demo GUI Testcase 01</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c5a1950d-5555-48c2-b1ae-a5892f6c4944</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>7495b7e7-0faa-4fc3-8637-1980f8475f77</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>48c541aa-e18b-4ef5-b61f-47e54b64305d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Visual Based Testing Testcases/Demo GUI Testcase 02</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ce4c2939-d5f0-41e6-b5b6-44fcafb5ca0e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e65e6040-cc27-4e30-9e2c-360958815f1d</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

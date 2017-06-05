@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Demo GUI Testcase 01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>16e715fa-f758-46b8-ae8b-6ca503bc688f</testCaseGuid>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>c5a1950d-5555-48c2-b1ae-a5892f6c4944</id>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'ThisIsNotAPassword'</defaultValue>
+      <description></description>
+      <id>7495b7e7-0faa-4fc3-8637-1980f8475f77</id>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
