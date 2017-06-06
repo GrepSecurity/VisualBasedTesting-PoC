@@ -37,3 +37,5 @@ Required External Jars:<br>
 extentreports-2.41.0.jar<br> 
 freemarker-2.3.23.jar<br> 
 sentinela.jar<br> 
+
+Thanks & credit goes to the makers of Katalon Studio, Selenium, Sentinela<br> 
